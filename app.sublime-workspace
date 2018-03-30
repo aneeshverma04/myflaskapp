@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"di",
+				"diff1"
+			],
+			[
+				"d",
+				"diff2"
+			],
+			[
+				"c",
+				"cl\tclass"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"nex",
+				"nextLine"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"s",
+				"super"
+			],
+			[
+				"emp",
+				"emp2"
+			],
+			[
+				"Pr",
+				"PriorityQueue"
+			],
+			[
+				"n",
+				"ndig"
+			],
+			[
+				"f",
+				"for\tfor"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"p",
+				"pu\tpublic"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"A",
+				"Aneesh"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"ge",
+				"getId"
+			],
+			[
+				"set",
+				"setCustomer"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"ro",
+				"rolename"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"size",
+				"size1"
+			],
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"si",
+				"size2"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"file",
+				"fileName2"
+			],
+			[
+				"fil",
+				"fileName2"
+			],
+			[
+				"fi",
+				"fileName1"
+			],
+			[
+				"bu",
+				"bufferedWriter2"
+			],
+			[
+				"num",
+				"numTotal"
+			],
+			[
+				"buff",
+				"bufferedreader1"
+			],
+			[
+				"Fil",
+				"File1"
+			],
+			[
+				"line",
+				"lineNum"
+			],
+			[
+				"lin",
+				"lineNum"
+			],
+			[
+				"Buffe",
+				"BufferedReader"
+			],
+			[
+				"buffere",
+				"bufferedWriter"
+			],
+			[
+				"Fi",
+				"FileReader"
+			],
+			[
+				"F",
+				"FileReader"
+			],
+			[
+				"rota",
+				"rotateRtL"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"com",
+				"compareTo"
+			],
+			[
+				"head",
+				"head1"
+			],
+			[
+				"hea",
+				"head1"
+			],
+			[
+				"he",
+				"head1"
+			],
+			[
+				"Buff",
+				"BufferedReader"
+			],
+			[
+				"se",
+				"setEmptyValue"
+			],
+			[
+				"Stri",
+				"StringJoiner"
+			],
+			[
+				"Str",
+				"StringJoiner"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fo",
+				"forEach"
+			],
+			[
+				"danc",
+				"dance"
+			],
+			[
+				"ob",
+				"objReal"
+			],
+			[
+				"cal",
+				"calculate"
+			],
+			[
+				"pi",
+				"pivot"
+			],
+			[
+				"sol",
+				"solveNQ"
+			],
+			[
+				"sa",
+				"solveMaze"
+			],
+			[
+				"maze",
+				"maze"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"Array",
+				"ArrayList"
+			],
+			[
+				"list",
+				"list3"
+			],
+			[
+				"lis",
+				"list2"
+			],
+			[
+				"li",
+				"list1"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"new",
+				"newHead"
+			],
+			[
+				"inse",
+				"insertTail"
+			],
+			[
+				"ins",
+				"insertHead"
+			],
+			[
+				"Super",
+				"Superdad"
+			],
+			[
+				"no",
+				"notInDog"
+			],
+			[
+				"Int",
+				"Inheritance"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"IN",
+				"include"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"per",
+				"perimeter2"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"fpr",
+				"fptr"
+			],
+			[
+				"int",
+				"Integer"
+			],
+			[
+				"dfs",
+				"dfsCycle"
+			],
+			[
+				"add",
+				"addEdge"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"df",
+				"dfs1"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"var",
+				"var2"
+			],
+			[
+				"nam",
+				"name2"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"stc",
+				"STRCPY"
+			],
+			[
+				"sh",
+				"showRightBoundary"
+			],
+			[
+				"show",
+				"showLeftBoundary"
+			],
+			[
+				"fp",
+				"fptr"
+			],
+			[
+				"po",
+				"poll"
+			],
+			[
+				"it",
+				"itr1"
+			],
+			[
+				"Set",
+				"HashSet"
+			],
+			[
+				"FIle",
+				"Files"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"obj",
+				"obj1"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"ptr",
+				"println"
+			],
+			[
+				"op",
+				"opClient"
+			],
+			[
+				"SERVER",
+				"SERVER"
+			],
+			[
+				"pa",
+				"pagesVisited"
+			],
+			[
+				"del",
+				"delMax"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"max",
+				"max"
+			],
+			[
+				"maxi",
+				"Maxi"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"Val",
+				"val1"
+			],
+			[
+				"ctr",
+				"ctr1"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"check",
+				"check1"
+			],
+			[
+				"mer",
+				"mergeInput"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"foo",
+				"foo1"
+			],
+			[
+				"hasCy",
+				"hasCyc"
+			],
+			[
+				"t",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 324.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aneesh/Desktop/Forum/flask basic/python anywhere/Commands",
+		"/home/aneesh/Desktop/Forum/flask basic/python anywhere/myflask.py",
+		"/home/aneesh/Desktop/Forum/flask basic/python anywhere/shiit",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/helloflask/flask-env/hello.py",
+		"/home/aneesh/Desktop/shutdown",
+		"/home/aneesh/Desktop/General Commands",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/venv/hello.py",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/hello.py",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/venv/bin/activate.csh",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/venv/bin/activate_this.py",
+		"/home/aneesh/Desktop/The-Boring-QR/settings.gradle",
+		"/home/aneesh/Desktop/Forum/flask basic/newproj/venv/bin/activate",
+		"/home/aneesh/Desktop/RAPS/RandAp.java",
+		"/home/aneesh/Desktop/RAPS/DataTypes.java",
+		"/media/aneesh/New Volume/TV serie/Batman Begins (2005) [1080p]/Other/AhaShare.com.txt",
+		"/home/aneesh/Desktop/RAPS/CnF.java",
+		"/home/aneesh/Desktop/RAPS/Dectobin.java",
+		"/home/aneesh/Desktop/RAPS/Bintodec.java",
+		"/home/aneesh/Desktop/RAPS/Alphabet.java",
+		"/home/aneesh/Desktop/RAPS/Employee.java",
+		"/home/aneesh/Desktop/RAPS/Hollow.java",
+		"/home/aneesh/Desktop/RAPS/Inverted.java",
+		"/home/aneesh/Desktop/RAPS/Test.java",
+		"/home/aneesh/Desktop/Python /Mulinheritance.py",
+		"/home/aneesh/Desktop/Python /inheritance.py",
+		"/home/aneesh/Desktop/Python /Oop.py",
+		"/home/aneesh/Desktop/Python /Oops.py",
+		"/home/aneesh/Desktop/RAPS/PQ.java",
+		"/media/aneesh/New Volume1/DS java/heapAndPq/MaxHeapClient.java",
+		"/media/aneesh/New Volume1/DS java/heapAndPq/PriorityQueue.java",
+		"/media/aneesh/New Volume1/DS1/V.java",
+		"/media/aneesh/New Volume1/DS1/Comparator/Pq.java",
+		"/media/aneesh/New Volume1/DS1/VaccinationFinal.java",
+		"/media/aneesh/New Volume1/DS1/PQ/intro",
+		"/media/aneesh/New Volume1/DS java/heapAndPq/PQClient.java",
+		"/home/aneesh/Desktop/RAPS/Armstrong.java",
+		"/home/aneesh/Desktop/RAPS/Oops1.java",
+		"/home/aneesh/Desktop/RAPS/Palindrome.java",
+		"/home/aneesh/Desktop/RAPS/Repeat.java",
+		"/home/aneesh/Desktop/RAPS/Pascal.java",
+		"/home/aneesh/Desktop/RAPS/Rev.java",
+		"/home/aneesh/Desktop/RAPS/String2.java",
+		"/home/aneesh/Desktop/RAPS/String.java",
+		"/home/aneesh/Desktop/RAPS/Prime.java",
+		"/home/aneesh/Desktop/RAPS/Rtrian.java",
+		"/home/aneesh/Desktop/RAPS/Tree.java",
+		"/home/aneesh/Desktop/Untitled Folder/Test.java",
+		"/home/aneesh/Desktop/Python /FileHandling.py",
+		"/home/aneesh/Desktop/Python /New.txt",
+		"/home/aneesh/Desktop/Python /Function.py",
+		"/home/aneesh/Desktop/Python /pyramid.py",
+		"/home/aneesh/Desktop/Python /Turtle.py",
+		"/home/aneesh/Desktop/Python /HelloWorld.py",
+		"/home/aneesh/Desktop/test.java",
+		"/home/aneesh/Desktop/virtusa/Collections/Iterable.java",
+		"/media/aneesh/New Volume/DS1/Iterator/itr",
+		"/home/aneesh/Desktop/virtusa/Thread/Second.java",
+		"/home/aneesh/Desktop/virtusa/Thread/First.java",
+		"/home/aneesh/Desktop/virtusa/Main.java",
+		"/home/aneesh/Desktop/virtusa/notes/Exception handling",
+		"/home/aneesh/Desktop/java/Exception Handling/ManMadeException.java",
+		"/home/aneesh/Desktop/java/Exception Handling/Test.java",
+		"/media/aneesh/UUI/hey.py",
+		"/home/aneesh/Downloads/evive.txt",
+		"/home/aneesh/workspace/Online Voting/WebContent/FIXES",
+		"/home/aneesh/Desktop/java/servlets/Bean",
+		"/home/aneesh/Desktop/java/servlets/Bean2",
+		"/home/aneesh/Desktop/java/servlets/scopes",
+		"/home/aneesh/Desktop/java/servlets/directive",
+		"/home/aneesh/Desktop/java/servlets/include directive vs include tag",
+		"/home/aneesh/Desktop/java/servlets/Directives",
+		"/home/aneesh/Desktop/java/servlets/POINTS",
+		"/home/aneesh/Desktop/virtusa/finalProject/signup.html",
+		"/home/aneesh/Desktop/java/servlets/init param",
+		"/etc/bash.bashrc",
+		"/home/aneesh/Desktop/java/servlets/Servlet interface",
+		"/home/aneesh/.bashrc",
+		"/home/aneesh/bash.bashrc",
+		"/u01/app/oracle/product/11.2.0/xe/config/log/cloneDBCreation.log",
+		"/etc/hosts",
+		"/etc/sysctl.d/60-oracle.conf",
+		"/etc/init.d/oracle-xe",
+		"/u01/app/oracle/product/11.2.0/xe/config/log/postScripts.log",
+		"/u01/app/oracle/product/11.2.0/xe/config/log/postDBCreation.log",
+		"/u01/app/oracle/product/11.2.0/xe/config/log/CloneRmanRestore.log",
+		"/sbin/chkconfig",
+		"/home/aneesh/database/install/runInstaller.sh",
+		"/home/aneesh/etc/hosts",
+		"/media/aneesh/New Volume/softwares/database/runInstaller",
+		"/etc/security/limits.conf",
+		"/etc/sysctl.conf",
+		"/home/aneesh/Desktop/java/servlets/Theory",
+		"/home/aneesh/Desktop/java/Important LAMP stack config",
+		"/home/aneesh/Desktop/java/servlets/Servlet Api",
+		"/etc/tomcat7/tomcat-users.xml",
+		"/etc/tomcat7/tomcat-users.xml.",
+		"/var/lib/tomcat7/conf/tomcat-users.xml",
+		"/home/aneesh/Desktop/java/Jdbc theory",
+		"/home/aneesh/Desktop/java/Untitled Document",
+		"/home/aneesh/Desktop/learn",
+		"/home/aneesh/Desktop/pass",
+		"/home/aneesh/workspace/Connectivity/README.md",
+		"/home/aneesh/workspace/Connectivity/src/Connection.java",
+		"/media/aneesh/New Volume/DS1/Applications of DS",
+		"/media/aneesh/New Volume2/DS java/Graphs/Bfs.java",
+		"/media/aneesh/New Volume2/DS1/LinkedList/Theory",
+		"/media/aneesh/New Volume2/DS java/Graphs/practice/Graph2.java",
+		"/media/aneesh/New Volume2/DS java/Graphs/Dfs.java",
+		"/media/aneesh/New Volume2/DS java/Graphs/Graph.java",
+		"/media/aneesh/New Volume2/DS1/LinkedList/Circular linked list",
+		"/media/aneesh/New Volume2/DS1/LinkedList/doubly linked list",
+		"/media/aneesh/New Volume2/DS1/LinkedList/allTheory",
+		"/media/aneesh/New Volume2/DS1/LinkedList/all.c",
+		"/media/aneesh/New Volume2/DS1/LinkedList/Theory1",
+		"/home/aneesh/Desktop/virtusa/jsp ",
+		"/opt/java/jdk1.8.0_102/lib/mysql-connector-java-5.0.8/COPYING",
+		"/opt/java/jdk1.8.0_102/lib/mysql-connector-java-5.0.8/README",
+		"/opt/java/jdk1.8.0_102/lib/mysql-connector-java-5.0.8/README.txt",
+		"/home/aneesh/Desktop/FINAL/Paper/Cloud Computing/Final/Title",
+		"/home/aneesh/Desktop/FINAL/crap-portfolio/index.html",
+		"/home/aneesh/Desktop/FINAL/Paper/Cloud Computing/Forensics/Main.txt",
+		"/home/aneesh/Desktop/FINAL/Git/styles.css",
+		"/home/aneesh/Desktop/FINAL/Git/feature-b.js",
+		"/home/aneesh/Desktop/FINAL/Git/index.html",
+		"/home/aneesh/Desktop/FINAL/Git/feature.js",
+		"/media/aneesh/New Volume/DS1/LinkedList/Revgrp.c",
+		"/media/aneesh/New Volume/DS1/LinkedList/doubly linked list",
+		"/media/aneesh/New Volume/DS1/LinkedList/Circular linked list"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

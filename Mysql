@@ -1,0 +1,43 @@
+sudo apt-get install mysql-server libmysqlclient-dev 
+
+mysql -u root -p // root user... p for password
+									// password is 'toor'	
+
+
+/*
+	sudo apt-get install python-dev
+	pip install flask-mysqldb
+
+
+	// WTforms(WTF)
+	pip install flask-WTF
+
+	// hashing our passwords 
+	pip install passlib
+*/
+
+show databases;
+create database myflaskapp;
+use myflaskapp;
+create table users(id INT(11) AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), username VARCHAR(30),email VARCHAR(100), password VARCHAR(100), register_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+show tables;
+
+select * from users;
+
+delete from orders where id_users = 1 and id_product = 2
+/*
+ Aneesh Verma | misterAneesh | aneeshvrma@yahoo.com | 12345
+ Yash Sharan  | yashSharan   | yash@sharan.com     | 54321
+*/
+
+CREATE TABLE articles (id INT(11) AUTO_INCREMENT PRIMARY KEY, title VARCHAR(255), author VARCHAR(100), body TEXT, create_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+
+
+/*
+TINYINT = 1 byte (8 bit)
+SMALLINT = 2 bytes (16 bit)
+MEDIUMINT = 3 bytes (24 bit)
+INT = 4 bytes (32 bit)
+BIGINT = 8 bytes (64 bit).
+*/
+INT(11) means int till 11 digits ==>2147483648
